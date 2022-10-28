@@ -1,0 +1,135 @@
+[
+  {
+    "name": "CAMO TUSHETAN HAT",
+    "type": "TUSHETIAN",
+    "description": "Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room.",
+    "image": "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900393/productImages/greenCamoHat_xwicwo.jpg",
+    "additionalImages": [
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900393/productImages/alterImage1_bhckba.jpg",
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900388/productImages/alterImage2_nqpzuz.jpg"
+    ],
+    "price": 45,
+    "sizeList": ["S", "M", "L"],
+    "colorList": ["#84964b", "#e6e2be"],
+    "matter": "Silk",
+    "availability": true
+  },
+  {
+    "name": "BLUE TUSHETAN HAT",
+    "type": "TUSHETIAN",
+    "description": "Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room.",
+    "image": "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900387/productImages/blueCamoHat_dlegbf.jpg",
+    "additionalImages": [
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900393/productImages/alterImage1_bhckba.jpg",
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900388/productImages/alterImage2_nqpzuz.jpg"
+    ],
+    "price": 25,
+    "sizeList": ["M", "L"],
+    "colorList": ["#324274"],
+    "matter": "Silk",
+    "availability": true
+  },
+  {
+    "name": "GREEN TUSHETAN HAT",
+    "type": "TUSHETIAN",
+    "description": "Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room.",
+    "image": "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900388/productImages/alterImage2_nqpzuz.jpg",
+    "additionalImages": [
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900393/productImages/alterImage1_bhckba.jpg"
+    ],
+    "price": 40,
+    "sizeList": ["L", "XL"],
+    "colorList": ["#5b843d"],
+    "matter": "Silk",
+    "availability": true
+  },
+  {
+    "name": "WHITE GURIAN HAT",
+    "type": "GURIAN",
+    "description": "Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room.",
+    "image": "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900387/productImages/whiteHat_hrdviz.jpg",
+    "additionalImages": [
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900393/productImages/alterImage1_bhckba.jpg",
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900388/productImages/alterImage2_nqpzuz.jpg"
+    ],
+    "price": 50,
+    "sizeList": ["L"],
+    "colorList": ["white"],
+    "matter": "Silk",
+    "availability": true
+  },
+  {
+    "name": "YELLOW GURIAN HAT",
+    "type": "GURIAN",
+    "description": "Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room.",
+    "image": "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900393/productImages/yellowCamoHat_zblevy.jpg",
+    "additionalImages": [
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900388/productImages/alterImage2_nqpzuz.jpg"
+    ],
+    "price": 25,
+    "sizeList": ["S", "L", "XL"],
+    "colorList": ["#f9c000", "#d2524f"],
+    "matter": "Silk",
+    "availability": true
+  },
+  {
+    "name": "PINK GURIAN HAT",
+    "type": "GURIAN",
+    "description": "Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room.",
+    "image": "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900390/productImages/lightPinkHat_t6w1eq.jpg",
+    "additionalImages": [
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900387/productImages/darkPinkHat_eiszb2.jpg",
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900388/productImages/alterImage2_nqpzuz.jpg"
+    ],
+    "price": 75,
+    "sizeList": ["S", "M", "L"],
+    "colorList": ["pink", "white"],
+    "matter": "Silk",
+    "availability": true
+  },
+  {
+    "name": "CAMO SVAN HAT",
+    "type": "SVAN",
+    "description": "Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room.",
+    "image": "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900393/productImages/greenCamoHat_xwicwo.jpg",
+    "additionalImages": [
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900393/productImages/alterImage1_bhckba.jpg",
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900388/productImages/alterImage2_nqpzuz.jpg"
+    ],
+    "price": 59,
+    "sizeList": ["S", "M", "L"],
+    "colorList": ["#84964b", "#e6e2be"],
+    "matter": "Silk",
+    "availability": true
+  },
+  {
+    "name": "BLUE SVAN HAT",
+    "type": "SVAN",
+    "description": "Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room.",
+    "image": "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900392/productImages/blueHat_hhple2.jpg",
+    "additionalImages": [
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900393/productImages/alterImage1_bhckba.jpg",
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900388/productImages/alterImage2_nqpzuz.jpg"
+    ],
+    "price": 30,
+    "sizeList": ["M", "L"],
+    "colorList": ["#324274"],
+    "matter": "Silk",
+    "availability": true
+  },
+  {
+    "name": "GREEN SVAN HAT",
+    "type": "SVAN",
+    "description": "Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room.",
+    "image": "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900393/productImages/greenHat_u9wkp9.jpg",
+    "additionalImages": [
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900393/productImages/alterImage1_bhckba.jpg",
+      "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666900388/productImages/alterImage2_nqpzuz.jpg"
+    ],
+    "price": 40,
+    "sizeList": ["S", "M"],
+    "colorList": ["#5b843d"],
+    "matter": "Silk",
+    "availability": true
+  }
+]

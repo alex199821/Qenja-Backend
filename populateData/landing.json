@@ -1,0 +1,25 @@
+{
+  "landingMainHeaderText":
+    {
+      "standartText": "LOREM IPSUM IS SIMPLY DUMMY",
+      "textInCircle": "TEXT OF THE PRINTING"
+    },
+  "landingMainHeaderImage": "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666906750/landingPage/landingPageMain_s47xm7.png",
+  "imageCollection": [
+    "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666906749/landingPage/collection1_zl7xwz.png",
+    "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666906750/landingPage/collection2_yvt91h.png",
+    "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666906749/landingPage/collection3_wsupid.png",
+    "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666906749/landingPage/collection4_j9zmux.png"
+  ],
+  "landingUpperCoverText":
+    {
+      "standartText": "Versatile elegance for dining room, office or living room. This seating",
+      "textUnderlined": "solution",
+      "standartTextContiniuation": "offers great appeal. Versatile elegance for dining room, office or living room. This seating solution offers great appeal."
+    }
+  ,
+  "landingUpperCoverImage": "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666906750/landingPage/coverImage1_mlpacz.png",
+  "shopPreviewShortDescription": "LOREM IPSUM IS SIMPLY DUMMY TEXT OF THE PRINTING",
+  "shopPreviewLongDescription": "Versatile elegance for dining room, office or living room. This seating solution offers great appeal. Versatile elegance for dining room, office or living room. This seating solution offers great appeal.",
+  "landingLowerCoverImage": "https://res.cloudinary.com/do8a4tbyb/image/upload/v1666906750/landingPage/coverImage2_s014yr.png"
+}
