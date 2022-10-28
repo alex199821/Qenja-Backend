@@ -4,6 +4,7 @@ const Contacts = require("../models/contactsModel");
 
 router.get("/", async (request, response) => {
   let contacts = await Contacts.find({});
+  console.log(contacts);
   try {
     if (contacts) {
       response.json(contacts);
