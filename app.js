@@ -3,17 +3,17 @@ const express = require("express");
 const helmet = require("helmet");
 const session = require("cookie-session");
 const app = express();
-// app.use(helmet());
+// Module to use helmet js with additonal setting of allowing images to be fetched from cloudinary
 app.use(
   helmet.contentSecurityPolicy({
     directives: {
       ...helmet.contentSecurityPolicy.getDefaultDirectives(),
-      //   "img-src": ["'self'", "*.cloudinary.com"],
       "img-src": ["'self'", "data:", "https:"],
     },
   })
 );
 
+//Module to allow crosssite delivery of cookies
 app.use(
   session({
     secret: process.env.SESSION_SECRET || "Super Secret (change it)",
@@ -25,8 +25,6 @@ app.use(
     },
   })
 );
-
-// app.set("trust proxy", 1);
 
 const connectDB = require("./db/connect");
 connectDB();
@@ -43,15 +41,6 @@ const orderRouter = require("./controllers/orderController");
 app.use(cors());
 app.use(express.static("build"));
 app.use(express.json());
-
-// app.use(
-//   helmet.contentSecurityPolicy({
-//     directives: {
-//       ...helmet.contentSecurityPolicy.getDefaultDirectives(),
-//       "img-src": ["'self'", "*.cloudinary.com"],
-//     },
-//   })
-// );
 
 app.use("/api/products", productsRouter);
 app.use("/api/landing", landingRouter);

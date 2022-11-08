@@ -2,6 +2,7 @@ const router = require("express").Router();
 
 const About = require("../models/aboutModel");
 
+//Controller to fetch about page
 router.get("/", async (request, response) => {
   console.log(request);
   let about = await About.find({});

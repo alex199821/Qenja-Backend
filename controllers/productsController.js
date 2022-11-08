@@ -2,6 +2,7 @@ const router = require("express").Router();
 
 const Product = require("../models/productModel");
 
+//Controller to fetch all products
 router.get("/", async (request, response) => {
   let products = await Product.find({});
   try {
@@ -16,6 +17,7 @@ router.get("/", async (request, response) => {
   }
 });
 
+//Controller to fetch single products
 router.get("singleProduct/:id", async (request, response) => {
   try {
     let product = await Product.findById(request.params.id);
@@ -30,6 +32,7 @@ router.get("singleProduct/:id", async (request, response) => {
   }
 });
 
+//Controller to add new products to product list
 router.post("/", (request, response) => {
   const body = request.body;
 

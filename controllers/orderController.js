@@ -2,6 +2,7 @@ const router = require("express").Router();
 
 const Order = require("../models/orderModel");
 
+//Controller to fetch all active orders
 router.get("/", async (request, response) => {
   let order = await Order.find({});
   try {
@@ -16,6 +17,7 @@ router.get("/", async (request, response) => {
   }
 });
 
+//Controller to add order to the database of orders
 router.post("/", (request, response) => {
   const body = request.body;
 

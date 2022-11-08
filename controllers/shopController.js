@@ -2,6 +2,7 @@ const router = require("express").Router();
 
 const Shop = require("../models/shopModel");
 
+//Controller to fetch shop page data
 router.get("/", async (request, response) => {
   let shop = await Shop.find({});
   try {

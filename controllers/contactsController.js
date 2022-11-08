@@ -2,6 +2,7 @@ const router = require("express").Router();
 
 const Contacts = require("../models/contactsModel");
 
+//Controller to fetch contacts page
 router.get("/", async (request, response) => {
   let contacts = await Contacts.find({});
   try {

@@ -16,6 +16,7 @@ const jsonAbout = require("./populateData/about.json");
 const jsonContacts = require("./populateData/contacts.json");
 const jsonShop = require("./populateData/shop.json");
 
+//This function allows you to upload web page data using json files - until admin panel is ready
 const start = async () => {
   try {
     await connectDB();

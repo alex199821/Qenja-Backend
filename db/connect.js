@@ -3,6 +3,7 @@ const logger = require("../utils/logger");
 
 const mongoose = require("mongoose");
 
+//Function to connect express server to mongo
 logger.info("connecting to", config.MONGODB_URI);
 
 const connectDB = () => {

@@ -2,6 +2,7 @@ const router = require("express").Router();
 
 const Landing = require("../models/landingModel");
 
+//Controller to fetch landing page
 router.get("/", async (request, response) => {
   let landing = await Landing.find({});
   try {
